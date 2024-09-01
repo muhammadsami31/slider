@@ -1,0 +1,2 @@
+# slider
+Slider with JS
